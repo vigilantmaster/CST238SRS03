@@ -43,4 +43,5 @@ Hints:
 - Do as little work as possible in your onDraw() function.  
 - See canvas.drawPoint and documentation.  
 - See https://developer.android.com/guide/topics/ui/custom-components.html
+- Read https://material.io/guidelines/patterns/gestures.html#gestures-touch-mechanics
 
