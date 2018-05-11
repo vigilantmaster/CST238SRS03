@@ -1,11 +1,12 @@
 # CST238SRS03
 Graphics  
 
-Student Name:  
+Student Name:  Tanel Helmik
 
-Issues:  
+Issues:  Text Change Listeners not working.
 
-Notes:  
+Notes:  Defaults are set.  Color can be changed by swipping right.  Screen can be cleared by swipping left.
+
 ----
 
 Purpose:  
